@@ -92,7 +92,7 @@ footer a{
 
 
 .hero{
-    background-image: url(/image/runner-7876675_1280.jpg);
+    background-image: url(../image/runner-7876675_1280.jpg);
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -152,7 +152,7 @@ input[type=submit]:hover {
 }
 
 .cansado{
-    background-image: url(/image/people-escalera.jpg);
+    background-image: url(../image/people-escalera.jpg);
     height: 400px;
     width: 80%;
     background-size: cover;
